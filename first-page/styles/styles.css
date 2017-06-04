@@ -1,4 +1,9 @@
 h1 {
+  display: inline;
   font-size: 40px;
   color: #064363;
+}
+
+#main-text {
+  color: #FF4363;
 }
