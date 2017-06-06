@@ -1,0 +1,1 @@
+I dusted off an ancient desktop I've had sitting in my closet, and decided to spend a week or so on a new hobby project. I settled on trying to host my own website from home via an Apache HTTP server, and so I put a very minimal distro on the old fella and started teaching myself HTML5.
