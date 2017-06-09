@@ -22,6 +22,7 @@ li a:hover {
 
 .image {
   position: relative;
+  padding-left: 210px;
   width: 100%;
 }
 
@@ -40,8 +41,10 @@ h2:hover {
   color: #FF4363;
 }
 
-#main-text {
+.main {
   padding-left: 210px;
+}
+#main-text {
   color: #FF4363;
 }
 #footer {
