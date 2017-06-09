@@ -1,0 +1,1 @@
+I dusted off an ancient desktop I've had sitting in my closet, and decided to spend a week or so on a new hobby project. I settled on trying to host my own website from home via an Nginx server, and so I put a very minimal distro on the old fella and started teaching myself HTML5. The website is up, but I've made it a rolling release project to spend time on over the summer. 

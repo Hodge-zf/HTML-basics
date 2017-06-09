@@ -4,7 +4,6 @@ ul.navigation {
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
-    height: 100%;
     position: fixed;
     overflow: auto;
 }
@@ -26,6 +25,9 @@ li a:hover {
   width: 100%;
 }
 
+body {
+}
+
 h1 {
   display: inline;
   font-size: 40px;
@@ -34,8 +36,14 @@ h1 {
 h2 {
   padding-left: 210px;
 }
+h2:hover {
+  color: #FF4363;
+}
 
 #main-text {
   padding-left: 210px;
   color: #FF4363;
+}
+#footer {
+  padding-left: 210px;
 }
